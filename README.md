@@ -1,13 +1,7 @@
-# IndiChic - Your Ultimate Fashion Destination 🛍️
-
-IndiChic is an exciting fashion brand website created using the MERN (MongoDB, Express.js, React, Node.js) stack. Explore this repository to get insights into the development of this stylish online platform.
 
 
+A Website is an exciting fashion brand website created using the MERN (MongoDB, Express.js, React, Node.js) stack. Explore this repository to get insights into the development of this stylish online platform.
 
-![thumbnail1](https://github.com/remixalpha/indichic/assets/98940581/da9f321f-5f7b-4271-8ef1-97bfdbf3ce92)
-
-
-![thumbnail2](https://github.com/remixalpha/indichic/assets/98940581/85c4547c-f9e1-4f96-98cf-c5dfacf17cf6)
 
 
 
@@ -47,32 +41,9 @@ IndiChic is an exciting fashion brand website created using the MERN (MongoDB, E
 
 
 
-## Getting Started
-
-Follow these steps to set up and run IndiChic on your local machine:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/yourusername/IndiChic.git
-
-
-2. cd IndiChic/frontend  &  cd ../backend
-   
-   ```bash
-   npm install
 
 
 
-3. cd frontend & cd ../backend
-   
-   ```bash
-   npm start
 
-
-Access the application in your web browser at http://localhost:3000.
-
-## Contribution
-We welcome contributions from the community to make IndiChic even better. If you'd like to contribute, please follow our Contributing Guidelines.
 
 
